@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "leaflet-geometryutil": "^0.10.1"
   }
 }
